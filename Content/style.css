@@ -1,0 +1,36 @@
+﻿body {
+}
+.jumbotron {
+    background-color: #C8CCC9;
+    color: #656566;
+    text-align: center;
+    margin-bottom: 0;
+}
+h1{
+    font-family: Oxygen, sans-serif;
+    letter-spacing: 10px;
+    font-size: 12px;
+    margin-bottom: -15px;
+}
+h2{
+    font-family:'Over the Rainbow';
+    margin-top: -15px;
+}
+nav{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.row .thumbnail{
+    margin: 2px;
+    width: 300px;
+    height: 300px;
+}
+
+div.feature{
+    padding: 0;
+}
+
+/* resize images */
+.row .thumbnail img {
+    background-size: cover;
+}
