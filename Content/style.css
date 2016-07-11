@@ -46,3 +46,14 @@ div.feature{
     background-color: #DEE1E3;
     color: #656566;
 }
+.btn-primary{
+    margin-top:300px;
+    margin-bottom: 300px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    
+}
+.navbar-text .nav-center {
+  text-align: center;
+}
